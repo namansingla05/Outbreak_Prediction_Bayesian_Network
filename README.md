@@ -36,7 +36,7 @@ Using the Variable Elimination inference method, the model predicts risk zones b
 ## Usage
   Running the Code:
  - Clone the repository:
--  git clone https://github.com/siddharthn183/OutbreakPredictionBayesianNetwork.git
+-  git clone https://github.com/namansingla05/Outbreak_Prediction_Bayesian_Network.git
 -  cd OutbreakPredictionBayesianNetwork
   
 ## Example Results
